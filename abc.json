@@ -1,0 +1,15 @@
+{
+    "name": "iscroll-lite",
+    "comName":"IscrollLite",
+    "version": "1.0",
+    "desc": "",
+    "tag":"mobile",
+    "githubName":"jayli",
+    "author": {
+        "name": "拔赤",
+        "email": "kissy-team@gmail.com",
+        "page": ""
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
