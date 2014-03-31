@@ -1,15 +1,17 @@
 {
     "name": "iscroll-lite",
     "comName":"IscrollLite",
-    "version": "1.0",
-    "desc": "iscroll-lite",
-    "tag":"mobile",
+    "version": "1.1",
+    "desc": "",
+    "tag":"kissy-mini,mini,iscroll,kissy-mini",
     "githubName":"jayli",
     "author": {
         "name": "拔赤",
-        "email": "kissy-team@gmail.com",
+        "email": "bachi@taobao.com",
         "page": ""
     },
+	"flexComboPort":"8081",
+	"reserveServerPort":"8080",
     "type": "kissy-gallery",
     "type-url": "http://gallery.kissyui.com/guide"
 }
